@@ -1,0 +1,13 @@
+XAMPP
+--------------------------------------------------------------------------
+consumables.php dosyası XAMPP kurulduktan sonra C:\xampp\htdocs içine atılmalı
+Apachi ve MySQL başlatılmalı 
+
+MYSQL 
+--------------------------
+"server":"localhost"
+"port":"3307"
+"database":"xcompany_db"
+"username":"root"
+"password":"123456"
+
